@@ -1,3 +1,6 @@
 Date,Amount,Category,Description,Currency,Notes
-2025-03-03,50,Food,,USD,Dinner with friends
-2025-03-03,20,Transportation,,USD,
+2025-03-03,50.0,Food,,USD,Dinner with friends
+2025-03-03,20.0,Transportation,,USD,
+2025-03-03,250.0,Entertainment,,AED,Movie with friends
+2025-03-03,975.0,Education,,USD,Course from Udemy
+2025-03-04,3000.0,Food,,USD,I ate too much
